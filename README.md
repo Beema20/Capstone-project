@@ -71,10 +71,10 @@ This project focuses on analyzing the LinkedIn Job Postings dataset from 2023-20
 The LinkedIn Job Postings Analysis project provided valuable insights into job market dynamics, salary distributions, and job market segmentation. The predictive models developed during this project can serve as tools for job seekers, employers, and policymakers to make data-driven decisions. The project demonstrated the importance of thorough data preprocessing, effective feature engineering, and the use of advanced machine learning techniques to extract actionable insights from complex datasets.
 
 ### **Repository Structure**
-- **/data**: Contains the raw and processed datasets..
-- **/notebooks**: Jupyter notebooks used for data exploration, preprocessing, and modeling.
-- **/models**: Saved models and scripts used for model training and evaluation.
-- **/app**: A user interface incorparated with streamlit to predict Salary.
-- **/visualizations**: Graphs, charts, and visual outputs from the EDA and model results.
-- **/reports**: Final project report, milestone reports, and presentation slides.
+- **data**: Contains the raw and processed datasets..
+- **notebooks**: Jupyter notebooks used for data exploration, preprocessing, and modeling.
+- **models**: Saved models and scripts used for model training and evaluation.
+- **app**: A user interface incorparated with streamlit to predict Salary.
+- **visualizations**: Graphs, charts, and visual outputs from the EDA and model results.
+- **reports**: Final project report, milestone reports, and presentation slides.
 
