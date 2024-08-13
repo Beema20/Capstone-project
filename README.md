@@ -61,11 +61,11 @@ This project focuses on analyzing the LinkedIn Job Postings dataset from 2023-20
 - **Jupyter Notebook**: Environment for developing and sharing code.
 
 ### **Contributors**
-- **Harsh Kundal**: Data acquisition, preliminary analysis, report.
-- **Parminder Kaur**: Data exploration, visualization, presentation.
-- **Diksha**: Data visualization, presentation.
+- **Harsh Kundal**: Data acquisition, preliminary analysis.
+- **Parminder Kaur**: Data exploration, presentation.
+- **Diksha**: Data exploration, presentation.
 - **Jaisy Joy**: Data exploration and preprocessing, model building, user-interface development, reports
-- **Beema Sajeev**: Data exploration and preprocessing, EDA, Model building, reports, presentation.
+- **Beema Sajeev**: Data exploration and preprocessing, EDA, Model building, reports, final presentation.
 
 ### **Conclusion**
 The LinkedIn Job Postings Analysis project provided valuable insights into job market dynamics, salary distributions, and job market segmentation. The predictive models developed during this project can serve as tools for job seekers, employers, and policymakers to make data-driven decisions. The project demonstrated the importance of thorough data preprocessing, effective feature engineering, and the use of advanced machine learning techniques to extract actionable insights from complex datasets.
